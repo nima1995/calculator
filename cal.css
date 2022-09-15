@@ -1,0 +1,82 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+#head
+{
+    margin-top: 30px;
+}
+
+.body
+{
+    width: 350px;
+    height: 480px;
+    margin: 65px auto;
+    background: rgba(82, 61, 61, 0.775);
+    border-radius: 15px;
+}
+
+#result
+{
+    border: none;
+    outline: none;
+    width: 350px;
+    height: 80px;
+    color: rgb(233, 239, 239);
+    background: rgb(149, 129, 209);
+    font-size: 50px;
+    padding: 10px;
+    text-align: right;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.buttons
+{
+    margin: 50x 25px;
+}
+.btn
+{
+    width: 60px;
+    height: 40px;
+    margin: 9px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 28px;
+    line-height: 30px;
+    border-radius: 30%;
+    background: rgb(125, 135, 166);
+}
+.acbtn
+{
+    width: 60px;
+    height: 60px;
+    margin: 8px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 28px;
+    line-height: 30px;
+    border-radius: 30%;
+    background: rgb(125, 135, 166);
+}
+
+.ebtn
+{
+    width: 60px;
+    height: 60px;
+    margin: 8px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 28px;
+    line-height: 30px;
+    border-radius: 30%;
+    background: rgb(125, 135, 166);
+}
+.btn:hover
+{
+    background: rgb(255, 252, 252);
+}
